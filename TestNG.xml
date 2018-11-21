@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="JenkinsTests">
+    <test name="testngTest">
+        <classes>
+            <class name="com.apple.tests.TestCase" />
+        </classes>
+    </test>
+</suite>
