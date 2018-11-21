@@ -20,6 +20,8 @@ public class TestCase extends BaseTest
         myGoogleHomePage.searchForCats("Cats");
         resultPage.goToImagesLink();
 
+        System.out.println("Test class");
+
     }
 
 
